@@ -1,0 +1,22 @@
+body {
+  background-color:#ff87df;
+  border: 20px double black;
+}
+
+.smallText {
+  color:#b5cbff;
+  font-size:25px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:500px;
+    width:100%;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+}
